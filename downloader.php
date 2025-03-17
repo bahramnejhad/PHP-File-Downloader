@@ -1,6 +1,6 @@
 <?php
-$path = 'backup-10.2.2018_09-09-05_ketab.tar.gz';
-$url = 'http://http://example.com/backup.tar.gz/';
+$path = 'yourfilename.zip';
+$url = 'http://http://example.com/yourfilename.zip/';
 $newfname = $path;
 echo 'Starting Download!
 ';
